@@ -23,7 +23,7 @@
   Install the following dependencies by running the following commands:
 
   ```
-  npm i (to install package.json)
+  npm i (to install node modules)
 
   npm i inquirer@8.2.4 (to install inquirer)
 
